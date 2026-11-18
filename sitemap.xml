@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN with the live domain before uploading. Lists every page in English, French and Swahili, with its images. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://YOUR-DOMAIN/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-measure.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-stir.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-enjoy.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-measure.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-stir.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-enjoy.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-measure.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-stir.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-step-enjoy.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-front.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-angle.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-in-hand.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/sanofysi-prebiotic-syrup.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-front.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-angle.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-in-hand.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/sanofysi-prebiotic-syrup.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-prebiotic-syrup.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-prebiotic-syrup.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-front.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-bottle-angle.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-in-hand.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea.jpg</image:loc></image:image>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sanofysi-journal.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/sanofysi-journal.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/sanofysi-journal.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/sanofysi-journal.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/sanofysi-journal.html"/>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/what-is-a-prebiotic.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/prebiotic-foods-onions-garlic-bananas-oats-beans-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/what-is-a-prebiotic.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/prebiotic-foods-onions-garlic-bananas-oats-beans-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/what-is-a-prebiotic.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/what-is-a-prebiotic.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/what-is-a-prebiotic.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/prebiotic-foods-onions-garlic-bananas-oats-beans-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/how-much-fibre-per-day.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/daily-fibre-foods-beans-okra-sweet-potato-fruit-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/how-much-fibre-per-day.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/daily-fibre-foods-beans-okra-sweet-potato-fruit-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/how-much-fibre-per-day.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/how-much-fibre-per-day.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/how-much-fibre-per-day.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/daily-fibre-foods-beans-okra-sweet-potato-fruit-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/high-fibre-breakfast-porridge-fruit-avocado-toast-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/high-fibre-breakfast-ideas.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/high-fibre-breakfast-porridge-fruit-avocado-toast-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/high-fibre-breakfast-ideas.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/high-fibre-breakfast-ideas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/high-fibre-breakfast-ideas.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/high-fibre-breakfast-porridge-fruit-avocado-toast-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sugar-honey-prebiotic-syrup-sweeteners-for-tea-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/healthy-sugar-alternatives-for-tea-and-coffee.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sugar-honey-prebiotic-syrup-sweeteners-for-tea-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/healthy-sugar-alternatives-for-tea-and-coffee.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/healthy-sugar-alternatives-for-tea-and-coffee.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/sugar-honey-prebiotic-syrup-sweeteners-for-tea-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fibermaxxing-explained.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/fibermaxxing-high-fibre-bowl-phone-photo-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/fibermaxxing-explained.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/fibermaxxing-high-fibre-bowl-phone-photo-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/fibermaxxing-explained.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/fibermaxxing-explained.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/fibermaxxing-explained.html"/>
+    <image:image><image:loc>https://YOUR-DOMAIN/assets/fibermaxxing-high-fibre-bowl-phone-photo-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/delivery.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/delivery.html"/>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/fr/delivery.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/delivery.html"/>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/sw/delivery.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://YOUR-DOMAIN/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://YOUR-DOMAIN/fr/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://YOUR-DOMAIN/sw/delivery.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://YOUR-DOMAIN/delivery.html"/>
+  </url>
+</urlset>

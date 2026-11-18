@@ -1,0 +1,36 @@
+# Sanofysi
+
+> Sanofysi makes Prebiotic Syrup, a lightly sweet liquid fibre supplement made with 95% FOS (fructooligosaccharides). It is stirred into tea, coffee, porridge, yoghurt or smoothies to add prebiotic fibre to an everyday diet. Sanofysi sells to English, French and Swahili speaking markets.
+
+## Product facts: Sanofysi Prebiotic Syrup
+
+- Type: food supplement, liquid prebiotic fibre syrup
+- Main ingredient: fructooligosaccharides (FOS) syrup, 95% FOS, 100% plant-based
+- Bottle: 290 mL (9.8 fl oz), about 19 servings
+- Serving size: 1 tablespoon (15 mL)
+- Per serving: 35 calories; total carbohydrate 16 g; dietary fibre 14.3 g (52% of the daily value); total sugars 1.6 g
+- Taste: mildly sweet, less sweet than sugar
+- How to use: stir one 15 mL spoon into tea, coffee, yoghurt, porridge or a smoothie once a day. People new to fibre should start with a teaspoon and build up over one to two weeks.
+- Price: USD 38 per bottle
+- Not intended to diagnose, treat, cure or prevent any disease.
+
+## Pages
+
+- [Prebiotic Syrup product page](sanofysi-prebiotic-syrup.html): full description, supplement facts, how to use, comparison with sugar and honey, and 14 answered questions
+- [Homepage](index.html): overview of the brand and product
+
+- [Delivery](delivery.html): Sanofysi delivers to every country in Africa and worldwide; cost and time are shown at checkout
+
+## Guides
+
+- [What is a prebiotic?](what-is-a-prebiotic.html): prebiotics vs probiotics, which foods contain prebiotic fibre, what FOS is
+- [How much fibre do you need a day?](how-much-fibre-per-day.html): recommended amounts, fibre in common foods, a sample day reaching 28 g
+- [7 high-fibre breakfast ideas](high-fibre-breakfast-ideas.html): quick breakfasts built on porridge, fruit, beans and whole grains
+- [Healthy sugar alternatives for tea and coffee](healthy-sugar-alternatives-for-tea-and-coffee.html): sugar, honey, stevia and prebiotic fibre syrup compared per tablespoon
+- [Fibermaxxing, explained](fibermaxxing-explained.html): what the trend is and a gentle two-week plan
+
+## Languages
+
+- English: site root
+- French: /fr/
+- Swahili: /sw/
