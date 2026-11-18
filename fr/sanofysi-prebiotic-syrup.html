@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Sirop prébiotique, 95 % de FOS pour l’intestin | Sanofysi</title>
-<meta name="description" content="Un sirop de fibres prébiotiques à 95 % de FOS, légèrement sucré. Une cuillère ajoute 14,3 g de fibres végétales à votre thé, café, smoothie ou bouillie.">
+<meta name="description" content="Un sirop de fibres prébiotiques à 95 % de FOS, légèrement sucré. Une cuillère ajoute 14,3 g de fibres végétales à votre thé, café, jus ou smoothie.">
 <meta name="robots" content="max-image-preview:large, max-snippet:-1">
 <link rel="preload" as="image" href="../assets/sanofysi-prebiotic-syrup-bottle-front.jpg">
 <link rel="alternate" hreflang="en" href="../sanofysi-prebiotic-syrup.html">
@@ -37,7 +37,7 @@
   "name": "Sanofysi"
  },
  "category": "Santé > Santé digestive > Compléments de fibres",
- "image": ["../assets/sanofysi-prebiotic-syrup-bottle-front.jpg", "../assets/sanofysi-prebiotic-syrup-bottle-angle.jpg", "../assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg", "../assets/sanofysi-prebiotic-syrup-in-hand.jpg", "../assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg", "../assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea.jpg", "../assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg"],
+ "image": ["../assets/sanofysi-prebiotic-syrup-bottle-front.jpg", "../assets/sanofysi-prebiotic-syrup-bottle-angle.jpg", "../assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg", "../assets/sanofysi-prebiotic-syrup-in-hand.jpg", "../assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg", "../assets/sanofysi-prebiotic-syrup-kitchen-tea-juice.jpg", "../assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg"],
  "sku": "SAN-GUT-FOS-290",
  "size": "290 ml",
  "offers": {
@@ -60,7 +60,7 @@
    "name": "Qu’est-ce qu’un sirop prébiotique et à quoi sert-il ?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Sanofysi Prebiotic Syrup est un complément de fibres liquide composé à 95 % de FOS, une fibre prébiotique soluble. Il sert à ajouter des fibres à l’alimentation de tous les jours : une cuillère de 15 ml dans le thé, le café, la bouillie, le yaourt ou un smoothie apporte 14,3 g de fibres."
+    "text": "Sanofysi Prebiotic Syrup est un complément de fibres liquide composé à 95 % de FOS, une fibre prébiotique soluble. Il sert à ajouter des fibres à l’alimentation de tous les jours : une cuillère de 15 ml dans le thé, le café, un jus, le yaourt ou un smoothie apporte 14,3 g de fibres."
    }
   },
   {
@@ -108,7 +108,7 @@
    "name": "Comment le prendre, et à quel moment de la journée ?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Mélangez jusqu’à une cuillère de 15 ml par jour à une boisson ou au petit-déjeuner. Il n’y a pas de meilleur moment : la plupart des gens le prennent le matin avec le thé, le café ou la bouillie. Si vous débutez, commencez par une cuillère à café et augmentez sur une à deux semaines."
+    "text": "Mélangez jusqu’à une cuillère de 15 ml par jour à une boisson ou au petit-déjeuner. Il n’y a pas de meilleur moment : la plupart des gens le prennent le matin avec le thé ou le café. Si vous débutez, commencez par une cuillère à café et augmentez sur une à deux semaines."
    }
   },
   {
@@ -161,10 +161,10 @@
   },
   {
    "@type": "Question",
-   "name": "Quel goût a-t-il, et peut-on l’utiliser dans les boissons chaudes, la bouillie et les smoothies ?",
+   "name": "Quel goût a-t-il, et peut-on l’utiliser dans les boissons chaudes, les jus et les smoothies ?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Il a un goût légèrement sucré, sans arrière-goût, et se dissout dans les liquides chauds et froids. Utilisez-le dans le thé, le café, la bouillie d’avoine ou de mil, le yaourt et les smoothies."
+    "text": "Il a un goût légèrement sucré, sans arrière-goût, et se dissout dans les liquides chauds et froids. Utilisez-le dans le thé, le café, les jus, le yaourt et les smoothies."
    }
   },
   {
@@ -399,7 +399,7 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
   .brand { justify-self: center; }
   .buy, .split, .inside .grid, .faq .grid, .compare .grid { grid-template-columns: 1fr; }
   .gallery { position: static; grid-template-columns: 1fr; }
-  .thumbs { order: 2; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+  .thumbs { order: 2; grid-template-columns: repeat(8, 1fr); gap: 6px; }
   .ritual-band .pic { order: -1; }
   footer .top { grid-template-columns: 1fr 1fr; }
 }
@@ -455,6 +455,23 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
   .nutri td:nth-child(n+2), .nutri thead th:nth-child(n+2) { width: 24%; padding-left: 6px; }
   .compare .nutri td:nth-child(n+2), .compare .nutri thead th:nth-child(n+2) { width: 21%; }
 }
+
+/* One-spoon layout */
+.spoonbar { margin: 22px 0 0; }
+.spoonbar .cap { font-size: .72rem; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin-bottom: 10px; }
+.spoonbar .track { display: flex; height: 40px; gap: 2px; }
+.spoonbar .track i { display: block; }
+.spoonbar .f { background: var(--emerald); flex: 14.3; }
+.spoonbar .s { background: var(--gold); flex: 1.6; }
+.spoonbar .o { background: var(--rule); flex: 3.8; }
+.spoonbar dl { margin: 12px 0 0; display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: 6px 22px; }
+.spoonbar dl div { display: grid; }
+.spoonbar dt { font-size: .84rem; color: var(--muted); display: flex; align-items: center; gap: 7px; }
+.spoonbar dt::before { content: ""; width: 10px; height: 10px; background: var(--c); flex: none; }
+.spoonbar dd { margin: 0; font-family: var(--display); font-size: 1.6rem; line-height: 1.1; color: var(--emerald); }
+.inside .spoonpic { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; margin-top: 26px; background: var(--paper); }
+.why .pic img { aspect-ratio: 3 / 2; }
+@media (max-width: 620px) { .spoonbar dl { gap: 6px 14px; } .spoonbar dd { font-size: 1.3rem; } }
 </style>
 </head>
 <body>
@@ -488,12 +505,13 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
       <div class="gallery">
         <div class="thumbs" role="group" aria-label="Images du produit">
           <button class="thumb" type="button" aria-current="true" data-src="../assets/sanofysi-prebiotic-syrup-bottle-front.jpg" data-alt="Bouteille de sirop prébiotique Sanofysi de 290 mL, vue de face sur fond blanc"><img src="../assets/sanofysi-prebiotic-syrup-bottle-front-thumb.jpg" alt="Afficher l’image 1" width="400" height="400" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-bottle-angle.jpg" data-alt="Bouteille de sirop prébiotique Sanofysi vue de trois quarts sur fond blanc"><img src="../assets/sanofysi-prebiotic-syrup-bottle-angle-thumb.jpg" alt="Afficher l’image 2" width="400" height="400" loading="lazy" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg" data-alt="Gros plan sur le bouchon transparent et l’étiquette transparente du sirop prébiotique Sanofysi"><img src="../assets/sanofysi-prebiotic-syrup-cap-label-detail-thumb.jpg" alt="Afficher l’image 3" width="400" height="400" loading="lazy" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-in-hand.jpg" data-alt="Une main tenant la bouteille de sirop prébiotique Sanofysi pour en montrer la taille"><img src="../assets/sanofysi-prebiotic-syrup-in-hand-thumb.jpg" alt="Afficher l’image 4" width="400" height="400" loading="lazy" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg" data-alt="Le sirop prébiotique doré coule d’une cuillère dans une tasse de thé, à côté de la bouteille Sanofysi"><img src="../assets/sanofysi-prebiotic-syrup-drizzle-into-tea-thumb.jpg" alt="Afficher l’image 5" width="400" height="400" loading="lazy" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea.jpg" data-alt="Le sirop prébiotique Sanofysi sur un plan de travail, à côté d’un bol de bouillie à la mangue et à la banane"><img src="../assets/sanofysi-prebiotic-syrup-kitchen-porridge-tea-thumb.jpg" alt="Afficher l’image 6" width="400" height="400" loading="lazy" decoding="async"></button>
-          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg" data-alt="La bouteille de sirop prébiotique Sanofysi vue de dessus avec une cuillère de sirop, des feuilles vertes et une serviette"><img src="../assets/sanofysi-prebiotic-syrup-flat-lay-spoon-thumb.jpg" alt="Afficher l’image 7" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-square.jpg" data-alt="Une cuillère de sirop prébiotique Sanofysi apporte autant de fibres que trois bols et demi de bouillie d’avoine"><img src="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-square-thumb.jpg" alt="Afficher l’image 2" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-bottle-angle.jpg" data-alt="Bouteille de sirop prébiotique Sanofysi vue de trois quarts sur fond blanc"><img src="../assets/sanofysi-prebiotic-syrup-bottle-angle-thumb.jpg" alt="Afficher l’image 3" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-cap-label-detail.jpg" data-alt="Gros plan sur le bouchon transparent et l’étiquette transparente du sirop prébiotique Sanofysi"><img src="../assets/sanofysi-prebiotic-syrup-cap-label-detail-thumb.jpg" alt="Afficher l’image 4" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-in-hand.jpg" data-alt="Une main tenant la bouteille de sirop prébiotique Sanofysi pour en montrer la taille"><img src="../assets/sanofysi-prebiotic-syrup-in-hand-thumb.jpg" alt="Afficher l’image 5" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg" data-alt="Le sirop prébiotique doré coule d’une cuillère dans une tasse de thé, à côté de la bouteille Sanofysi"><img src="../assets/sanofysi-prebiotic-syrup-drizzle-into-tea-thumb.jpg" alt="Afficher l’image 6" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-kitchen-tea-juice.jpg" data-alt="Le sirop prébiotique Sanofysi sur un plan de travail, à côté d’une tasse de thé et d’un verre de jus d’orange"><img src="../assets/sanofysi-prebiotic-syrup-kitchen-tea-juice-thumb.jpg" alt="Afficher l’image 7" width="400" height="400" loading="lazy" decoding="async"></button>
+          <button class="thumb" type="button" data-src="../assets/sanofysi-prebiotic-syrup-flat-lay-spoon.jpg" data-alt="La bouteille de sirop prébiotique Sanofysi vue de dessus avec une cuillère de sirop, des feuilles vertes et une serviette"><img src="../assets/sanofysi-prebiotic-syrup-flat-lay-spoon-thumb.jpg" alt="Afficher l’image 8" width="400" height="400" loading="lazy" decoding="async"></button>
         </div>
         <div class="stage"><img id="stage-img" width="1600" height="1600" fetchpriority="high" decoding="async" src="../assets/sanofysi-prebiotic-syrup-bottle-front.jpg" alt="Bouteille de sirop prébiotique Sanofysi de 290 mL, vue de face sur fond blanc"></div>
       </div>
@@ -502,7 +520,7 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
         <span class="eyebrow line"><i></i>Sirop de fibres prébiotiques</span>
         <h1>Sirop prébiotique</h1>
         <p class="tagline">Votre intestin, chaque jour, sans effort</p>
-        <p class="lede">Une fibre végétale légèrement sucrée qui nourrit les bonnes bactéries de votre intestin. Elle se fond dans le thé, le café ou la bouillie que vous préparez déjà. Pas de poudre, pas de grumeaux, pas de nouvelle routine à apprendre.</p>
+        <p class="lede">Une fibre végétale légèrement sucrée qui nourrit les bonnes bactéries de votre intestin. Elle se fond dans le thé, le café ou le jus que vous buvez déjà. Pas de poudre, pas de grumeaux, pas de nouvelle routine à apprendre.</p>
         <ul class="facts" aria-label="Par cuillère de 15 ml">
           <li><b>14,3 g</b><span>fibres prébiotiques</span></li>
           <li><b>1,6 g</b><span>sucres</span></li>
@@ -533,11 +551,12 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
   <section class="why">
     <div class="wrap">
       <div class="split">
-        <div class="pic"><img src="../assets/sanofysi-prebiotic-syrup-step-stir.jpg" alt="Une cuillère remue un bol de bouillie garni de mangue et de banane" loading="lazy" decoding="async"></div>
+        <div class="pic"><img src="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg 1600w" sizes="(max-width: 900px) 100vw, 50vw" alt="Une cuillère de sirop prébiotique Sanofysi à côté de trois bols et demi de bouillie d’avoine" width="1600" height="1067" loading="lazy" decoding="async"></div>
         <div>
           <span class="eyebrow">Pourquoi vous le garderez près de la bouilloire</span>
           <h2>Plus de fibres, sans rien changer à vos habitudes.</h2>
           <ul class="reasons">
+            <li><b>Les fibres de 3½ bols d’avoine</b><span>Ou environ 5 bananes, ou 7 tranches de pain complet, dans une cuillère de 15 ml. D’après les valeurs habituelles des aliments.</span></li>
             <li><b>La moitié de vos fibres du jour en une cuillère</b><span>14,3 g par portion de 15 ml, soit 52 % de la valeur quotidienne.</span></li>
             <li><b>De quoi nourrir vos bonnes bactéries</b><span>Les FOS sont une fibre soluble dont se nourrissent vos bactéries intestinales.</span></li>
             <li><b>Légèrement sucré</b><span>Utilisez-le à la place d’une partie du sucre ou du miel de votre tasse, avec seulement 1,6 g de sucres.</span></li>
@@ -556,12 +575,12 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
           <h2>Une cuillère, <em>chaque matin.</em></h2>
           <ol class="steps">
             <li><span class="n">1</span><div><b>Dosez</b><span>Une cuillère de 15 ml.</span></div></li>
-            <li><span class="n">2</span><div><b>Mélangez</b><span>Dans le thé, le café, un smoothie, le yaourt ou la bouillie chaude.</span></div></li>
+            <li><span class="n">2</span><div><b>Mélangez</b><span>Dans le thé, le café, un jus, un smoothie ou le yaourt.</span></div></li>
             <li><span class="n">3</span><div><b>Savourez</b><span>Une fois par jour, en buvant beaucoup d’eau tout au long de la journée.</span></div></li>
           </ol>
           <p class="note">Vous débutez avec les fibres ? Une cuillère est une grande portion. Commencez par une cuillère à café la première semaine, puis augmentez.</p>
         </div>
-        <div class="pic"><img src="../assets/sanofysi-prebiotic-syrup-gold-swirl.jpg" alt="Bouteille de sirop prébiotique Sanofysi entourée d’un ruban de sirop doré" loading="lazy" decoding="async"></div>
+        <div class="pic"><img src="../assets/sanofysi-prebiotic-syrup-in-coffee.jpg" alt="Le sirop prébiotique coule dans une tasse de café noir à côté de la bouteille Sanofysi ouverte" width="1000" height="1000" loading="lazy" decoding="async"></div>
       </div>
     </div>
   </section>
@@ -571,8 +590,10 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
       <div class="grid">
         <div>
           <span class="eyebrow">Composition</span>
-          <h2>Une étiquette qui se lit d’un seul souffle.</h2>
-          <p class="body">Sirop de fructo-oligosaccharides (FOS) à 95 % : une fibre soluble, 100 % végétale.</p>
+          <h2>Les fibres, ingrédient principal.</h2>
+          <p class="body">Chaque cuillère de 15 mL pèse environ 19,7 g, dont 14,3 g de fibres prébiotiques FOS. Le reste : 1,6 g de sucres et de l’eau.</p>
+          <div class="spoonbar"><p class="cap">Ce que contient une cuillère de 15 mL</p><div class="track" aria-hidden="true"><i class="f"></i><i class="s"></i><i class="o"></i></div><dl><div><dt style="--c:var(--emerald)">Fibres</dt><dd>14,3 g</dd></div><div><dt style="--c:var(--gold)">Sucres</dt><dd>1,6 g</dd></div><div><dt style="--c:var(--rule)">Eau et autres</dt><dd>3,8 g</dd></div></dl></div>
+          <img class="spoonpic" src="../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup.jpg 1600w" sizes="(max-width: 900px) 100vw, 40vw" alt="Une cuillère à soupe remplie de sirop de fibres prébiotiques doré, la bouteille Sanofysi en arrière-plan" width="1600" height="1067" loading="lazy" decoding="async">
           <dl class="details">
             <div><dt>Contenance</dt><dd>290 ml (9,8 fl oz)</dd></div>
             <div><dt>Portions</dt><dd>Environ 19</dd></div>
@@ -623,20 +644,20 @@ footer .bottom { margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba
       <div class="grid">
         <div><span class="eyebrow">Questions</span><h2>Bon à savoir.</h2><p style="margin-top:18px;color:var(--muted)">Envie d’en savoir plus ? Lisez <a class="link" href="what-is-a-prebiotic.html">ce qu’est un prébiotique</a> et <a class="link" href="how-much-fibre-per-day.html">combien de fibres il faut par jour</a>.</p></div>
         <div>
-          <details open><summary>Qu’est-ce qu’un sirop prébiotique et à quoi sert-il ?</summary><p>Sanofysi Prebiotic Syrup est un complément de fibres liquide composé à 95 % de FOS, une fibre prébiotique soluble. Il sert à ajouter des fibres à l’alimentation de tous les jours : une cuillère de 15 ml dans le thé, le café, la bouillie, le yaourt ou un smoothie apporte 14,3 g de fibres.</p></details>
+          <details open><summary>Qu’est-ce qu’un sirop prébiotique et à quoi sert-il ?</summary><p>Sanofysi Prebiotic Syrup est un complément de fibres liquide composé à 95 % de FOS, une fibre prébiotique soluble. Il sert à ajouter des fibres à l’alimentation de tous les jours : une cuillère de 15 ml dans le thé, le café, un jus, le yaourt ou un smoothie apporte 14,3 g de fibres.</p></details>
           <details><summary>Que sont les FOS (fructo-oligosaccharides) ? Sont-ils bons ou mauvais ?</summary><p>Les FOS, ou oligofructose, sont des fibres solubles naturellement présentes dans l’oignon, l’ail, la banane et la chicorée. Le corps ne les digère pas ; ce sont les bactéries de l’intestin qui s’en nourrissent. Comme pour toute fibre, une grande quantité d’un coup peut provoquer des gaz ou des ballonnements : augmentez progressivement.</p></details>
           <details><summary>Prébiotique et probiotique : quelle différence ?</summary><p>Les probiotiques sont des bactéries vivantes, présentes dans le yaourt, les aliments fermentés et certains compléments. Les prébiotiques sont les fibres dont ces bactéries se nourrissent. Ce sirop est un prébiotique.</p></details>
           <details><summary>Quels sont les bienfaits des fibres prébiotiques ?</summary><p>Les fibres prébiotiques nourrissent les bonnes bactéries de l’intestin et comptent dans votre apport quotidien en fibres. La plupart des adultes mangent moins que les 25 à 30 g conseillés par jour ; une cuillère de ce sirop en apporte 14,3 g.</p></details>
           <details><summary>Les fibres prébiotiques sont-elles solubles ou insolubles ?</summary><p>Les FOS sont des fibres solubles. Elles se dissolvent entièrement dans un liquide, c’est pourquoi le sirop se mélange aux boissons chaudes et froides sans dépôt.</p></details>
           <details><summary>Combien de fibres par jour, et combien dans une cuillère ?</summary><p>L’Organisation mondiale de la santé recommande au moins 25 g de fibres par jour pour un adulte, et les étiquettes utilisent une valeur de référence de 28 g. Une cuillère de 15 ml de sirop en contient 14,3 g, soit 52 % de cette valeur.</p></details>
-          <details><summary>Comment le prendre, et à quel moment de la journée ?</summary><p>Mélangez jusqu’à une cuillère de 15 ml par jour à une boisson ou au petit-déjeuner. Il n’y a pas de meilleur moment : la plupart des gens le prennent le matin avec le thé, le café ou la bouillie. Si vous débutez, commencez par une cuillère à café et augmentez sur une à deux semaines.</p></details>
+          <details><summary>Comment le prendre, et à quel moment de la journée ?</summary><p>Mélangez jusqu’à une cuillère de 15 ml par jour à une boisson ou au petit-déjeuner. Il n’y a pas de meilleur moment : la plupart des gens le prennent le matin avec le thé ou le café. Si vous débutez, commencez par une cuillère à café et augmentez sur une à deux semaines.</p></details>
           <details><summary>Peut-on prendre prébiotiques et probiotiques ensemble ?</summary><p>Oui. Ils n’ont pas le même rôle et se prennent souvent ensemble : les probiotiques sont des bactéries vivantes, les prébiotiques sont les fibres qui les nourrissent.</p></details>
           <details><summary>Les prébiotiques peuvent-ils donner des gaz, des ballonnements ou la diarrhée ?</summary><p>C’est possible si vous prenez beaucoup de fibres d’un coup, surtout sans y être habitué. Commencez par une cuillère à café, augmentez lentement sur une à deux semaines et buvez beaucoup d’eau. Si les symptômes persistent, arrêtez et consultez un professionnel de santé.</p></details>
           <details><summary>Les fibres aident-elles la digestion et le transit ?</summary><p>Les fibres font partie d’une digestion normale et les autorités de santé conseillent d’en manger suffisamment, avec assez d’eau. Le sirop prébiotique est un complément alimentaire qui ajoute des fibres à votre alimentation. Ce n’est pas un médicament ni un traitement de la constipation ; si elle persiste, consultez un médecin.</p></details>
           <details><summary>Le sirop prébiotique est-il une alternative saine au sucre dans le thé et le café ?</summary><p>C’est une façon moins sucrée d’adoucir une boisson. Son goût est légèrement sucré, moins que le sucre, et une cuillère de 15 ml contient 1,6 g de sucres et 35 calories. Une cuillère à soupe de sucre blanc contient environ 12 g de sucres, une cuillère de miel environ 17 g.</p></details>
           <details><summary>Est-ce mieux que le miel ou le sucre dans le thé ?</summary><p>À cuillère égale, il contient beaucoup moins de sucres et apporte 14,3 g de fibres, que le sucre et le miel ne contiennent pas. Il est aussi moins sucré : certains utilisent la moitié de leur sucre habituel et une cuillère de sirop.</p></details>
           <details><summary>Contient-il du sucre, et combien de calories ?</summary><p>Une cuillère de 15 ml contient 1,6 g de sucres et 35 calories. L’essentiel des 16 g de glucides est constitué de fibres.</p></details>
-          <details><summary>Quel goût a-t-il, et peut-on l’utiliser dans les boissons chaudes, la bouillie et les smoothies ?</summary><p>Il a un goût légèrement sucré, sans arrière-goût, et se dissout dans les liquides chauds et froids. Utilisez-le dans le thé, le café, la bouillie d’avoine ou de mil, le yaourt et les smoothies.</p></details>
+          <details><summary>Quel goût a-t-il, et peut-on l’utiliser dans les boissons chaudes, les jus et les smoothies ?</summary><p>Il a un goût légèrement sucré, sans arrière-goût, et se dissout dans les liquides chauds et froids. Utilisez-le dans le thé, le café, les jus, le yaourt et les smoothies.</p></details>
           <details><summary>Ce complément de fibres convient-il aux femmes, aux hommes et aux enfants ?</summary><p>Il est conçu pour les adultes, femmes et hommes. Demandez l’avis d’un professionnel de santé avant de donner un complément de fibres à un enfant.</p></details>
           <details><summary>Est-il d’origine végétale ?</summary><p>Oui. Le sirop prébiotique est 100 % végétal.</p></details>
           <details><summary>Combien de temps dure une bouteille, et comment la conserver ?</summary><p>Une bouteille de 290 ml contient environ 19 portions, soit environ 19 jours à raison d’une cuillère par jour. Gardez-la fermée, dans un endroit frais et sec, à l’abri du soleil, et utilisez-la avant la date indiquée sur l’étiquette.</p></details>

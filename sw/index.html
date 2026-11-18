@@ -4,19 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Sanofysi Prebiotic Syrup | Nyuzinyuzi kwa Afya ya Utumbo</title>
-<meta name="description" content="Sharubati ya nyuzinyuzi za prebiotiki yenye utamu mdogo kwa chai, kahawa au kifungua kinywa. Kijiko kimoja kina g 14.3 za nyuzinyuzi na g 1.6 tu za sukari.">
+<meta name="description" content="Kijiko kimoja cha Sanofysi Prebiotic Syrup kina g 14.3 za nyuzinyuzi, sawa na mabakuli 3½ ya uji wa oti. Changanya kwenye chai au kahawa. Sukari g 1.6 tu.">
 <link rel="alternate" hreflang="en" href="../index.html">
 <link rel="alternate" hreflang="fr" href="../fr/index.html">
 <link rel="alternate" hreflang="sw" href="index.html">
 <link rel="alternate" hreflang="x-default" href="../index.html">
 <meta property="og:locale" content="sw">
 <meta name="robots" content="max-image-preview:large, max-snippet:-1">
-<link rel="preload" as="image" href="../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg" imagesrcset="../assets/sanofysi-prebiotic-syrup-friends-breakfast-900.jpg 900w, ../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg 1600w" imagesizes="(max-width: 960px) 100vw, 58vw">
+<link rel="preload" as="image" href="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg" imagesrcset="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg 1600w" imagesizes="(max-width: 960px) 100vw, 58vw">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Sanofysi">
 <meta property="og:title" content="Sanofysi Prebiotic Syrup | Huduma rahisi ya utumbo, kila siku">
 <meta property="og:description" content="G 14.3 za nyuzinyuzi za prebiotiki za mimea kwenye kijiko kimoja chenye utamu mdogo. Ikoroge kwenye chai, kahawa au kifungua kinywa.">
-<meta property="og:image" content="../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg">
+<meta property="og:image" content="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg">
 <meta property="og:image:alt" content="Marafiki wanne wakila kifungua kinywa pamoja, chupa ya Sanofysi Prebiotic Syrup ikiwa mezani">
 <meta property="og:image" content="../assets/link-preview-1200x630.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -36,7 +36,7 @@
     { "@type": "FAQPage", "mainEntity": [
       { "@type": "Question", "name": "Prebiotiki ni nini?", "acceptedAnswer": { "@type": "Answer", "text": "Prebiotiki ni nyuzinyuzi ambayo mwili wako hauimeng’enyi lakini bakteria wa utumbo wako huimeng’enya. Probiotiki ni bakteria hai; prebiotiki ni chakula chao. Sanofysi Prebiotic Syrup imetengenezwa kwa FOS (fructooligosaccharides), nyuzinyuzi ya prebiotiki inayoyeyuka na inayopatikana kiasili kwenye mimea." } },
       { "@type": "Question", "name": "Unahitaji nyuzinyuzi kiasi gani kwa siku?", "acceptedAnswer": { "@type": "Answer", "text": "Lebo za vyakula hutumia kiwango cha kila siku cha g 28 za nyuzinyuzi, na watu wengi hula chini ya hapo. Kijiko kimoja cha mL 15 cha Prebiotic Syrup kinatoa g 14.3, karibu nusu ya kiwango cha kila siku." } },
-      { "@type": "Question", "name": "Je, naweza kuitumia badala ya sukari au asali?", "acceptedAnswer": { "@type": "Answer", "text": "Ndiyo. Ina utamu mdogo na inakorogeka kwenye chai, kahawa, uji au mtindi. Kijiko kimoja cha mL 15 kina g 1.6 za sukari na kalori 35, ikilinganishwa na takriban g 17 za sukari kwenye kijiko kikubwa cha asali." } }
+      { "@type": "Question", "name": "Je, naweza kuitumia badala ya sukari au asali?", "acceptedAnswer": { "@type": "Answer", "text": "Ndiyo. Ina utamu mdogo na inakorogeka kwenye chai, kahawa, juisi au mtindi. Kijiko kimoja cha mL 15 kina g 1.6 za sukari na kalori 35, ikilinganishwa na takriban g 17 za sukari kwenye kijiko kikubwa cha asali." } }
     ] }
   ]
 }
@@ -225,6 +225,67 @@ footer .bottom { margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba
   table.facts th, table.facts td, table.facts thead th + th { white-space: normal; overflow-wrap: anywhere; }
   table.facts td, table.facts thead th + th { width: 27%; padding-left: 8px; }
 }
+
+/* One-spoon layout */
+.hero-img img { object-position: center; }
+.cmp { padding-block: clamp(56px, 8vw, 96px); }
+.cmp .head { display: grid; gap: 10px; margin-bottom: clamp(24px, 3.4vw, 40px); }
+.cmp-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(16px, 2.4vw, 28px); }
+.cmp-grid figure { margin: 0; display: grid; gap: 12px; }
+.cmp-grid img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; background: var(--paper); }
+.cmp-grid figcaption { display: grid; gap: 0; }
+.cmp-grid figcaption b { font-family: var(--display); font-weight: 400; text-transform: uppercase; font-size: clamp(2rem, 3.6vw, 2.8rem); line-height: 1.05; color: var(--green); }
+.cmp-grid figcaption span { font-size: 1.05rem; font-weight: 600; color: var(--green); }
+.cmp .note { margin-top: 22px; font-size: .9rem; color: var(--muted); max-width: 86ch; }
+.ways { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(14px, 2vw, 24px); }
+.ways a { display: grid; gap: 4px; text-decoration: none; color: inherit; }
+.ways img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; background: var(--paper); margin-bottom: 8px; }
+.ways b { font-weight: 700; font-size: 1.1rem; color: var(--green); }
+.ways span { font-size: .95rem; color: var(--muted); }
+.ways a:hover b { text-decoration: underline; text-underline-offset: 4px; }
+.ing .grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(28px, 4vw, 56px); align-items: center; }
+.ing .pic img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; background: var(--paper); }
+.ing .text { display: grid; gap: 16px; justify-items: start; }
+.ing .text > * { width: 100%; }
+.spoonbar { margin: 4px 0 0; }
+.spoonbar .cap { font-size: .78rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--green); margin-bottom: 10px; }
+.spoonbar .track { display: flex; height: 44px; gap: 2px; }
+.spoonbar .track i { display: block; }
+.spoonbar .f { background: var(--green); flex: 14.3; }
+.spoonbar .s { background: var(--gold); flex: 1.6; }
+.spoonbar .o { background: var(--rule); flex: 3.8; }
+.spoonbar dl { margin: 12px 0 0; display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: 6px 26px; }
+.spoonbar dl div { display: grid; gap: 0; }
+.spoonbar dt { font-size: .86rem; color: var(--muted); display: flex; align-items: center; gap: 7px; }
+.spoonbar dt::before { content: ""; width: 10px; height: 10px; background: var(--c); flex: none; }
+.spoonbar dd { margin: 0; font-family: var(--display); font-size: 1.7rem; line-height: 1.1; color: var(--green); }
+.ing table.facts { margin-top: clamp(28px, 4vw, 44px); }
+.band { position: relative; min-height: clamp(280px, 42vw, 520px); display: grid; align-items: end; overflow: hidden; background: var(--green-deep); }
+.band img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 35%; }
+.band::after { content: ""; position: absolute; inset: 40% 0 0; background: linear-gradient(to bottom, rgba(10,54,40,0), rgba(10,54,40,.78)); }
+.band .wrap { position: relative; z-index: 1; width: 100%; padding-block: clamp(24px, 4vw, 44px); }
+.band h2 { color: var(--on-dark); max-width: 16ch; margin-left: auto; text-align: right; }
+@media (max-width: 960px) {
+  .ing .grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 760px) {
+  .cmp-grid { grid-template-columns: 1fr; }
+  .ways { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .spoonbar dl { gap: 6px 16px; }
+  .spoonbar dd { font-size: 1.4rem; }
+}
+
+/* Hero sized so the whole comparison photo shows */
+.hero { grid-template-columns: minmax(0, 4fr) minmax(0, 8fr); }
+.hero-copy { padding-block: 40px; gap: 18px; }
+.hero h1 { font-size: clamp(2.4rem, 4.2vw, 3.5rem); }
+.hero p.sub { font-size: 1.08rem; max-width: 36ch; }
+.hero-img { min-height: 0; aspect-ratio: 3 / 2; }
+@media (max-width: 960px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero h1 { font-size: clamp(2.4rem, 10vw, 3.4rem); }
+  .hero-img { aspect-ratio: 3 / 2; }
+}
 </style>
 </head>
 <body>
@@ -254,12 +315,12 @@ footer .bottom { margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba
   <div class="hero">
     <div class="hero-copy">
       <span class="eyebrow">Sharubati ya nyuzinyuzi za prebiotiki</span>
-      <h1>Huduma rahisi ya utumbo, kila siku</h1>
-      <p class="sub">Nyuzinyuzi ya mimea yenye utamu mdogo kwa chai, kahawa au kifungua kinywa chako.</p>
+      <h1>Nyuzinyuzi za mabakuli 3½ ya oti, ndani ya kijiko kimoja</h1>
+      <p class="sub">Sanofysi Prebiotic Syrup ni nyuzinyuzi za mimea zenye utamu mwepesi: g 14.3 kwa kila kijiko, kwenye chai, kahawa au kifungua kinywa chako. Huduma rahisi ya utumbo, kila siku.</p>
       <a class="btn btn-green" href="sanofysi-prebiotic-syrup.html">Nunua Prebiotic Syrup</a>
       <p class="buy-note">$38 · chupa ya mL 290 · takriban vipimo 19</p>
     </div>
-    <div class="hero-img"><img src="../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg" srcset="../assets/sanofysi-prebiotic-syrup-friends-breakfast-900.jpg 900w, ../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg 1600w" sizes="(max-width: 960px) 100vw, 58vw" alt="Marafiki wanne wakicheka wakati wa kifungua kinywa, chupa ya Sanofysi Prebiotic Syrup ikiwa mezani" width="1600" height="1194" fetchpriority="high" decoding="async"></div>
+    <div class="hero-img"><img src="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg" srcset="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg 1600w" sizes="(max-width: 960px) 100vw, 58vw" alt="Kijiko kimoja cha Sanofysi Prebiotic Syrup kando ya mabakuli matatu na nusu ya uji wa oti" width="1600" height="1067" fetchpriority="high" decoding="async"></div>
   </div>
 
   <div class="stats">
@@ -273,34 +334,42 @@ footer .bottom { margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba
     </div>
   </div>
 
-  <section class="how" id="how">
+  <section class="cmp" id="compare">
+    <div class="wrap">
+      <div class="head"><span class="eyebrow">Kijiko kimoja kina nyuzinyuzi takriban sawa na</span><h2>Ungehitaji kula hivi vyote.</h2></div>
+      <div class="cmp-grid"><figure><img src="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-vs-oats-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-oats-fibre.jpg 1600w" sizes="(max-width: 760px) 100vw, 33vw" alt="Kijiko cha sharubati ya prebiotiki kando ya mabakuli matatu na nusu ya uji wa oti" width="1600" height="1067" loading="lazy" decoding="async"><figcaption><b>Mabakuli 3½</b><span>ya uji wa oti</span></figcaption></figure><figure><img src="../assets/sanofysi-prebiotic-syrup-vs-bananas-fibre-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-vs-bananas-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-bananas-fibre.jpg 1600w" sizes="(max-width: 760px) 100vw, 33vw" alt="Kijiko cha sharubati ya prebiotiki kando ya ndizi tano" width="1600" height="1067" loading="lazy" decoding="async"><figcaption><b>Ndizi 5</b><span>za wastani, zilizoiva</span></figcaption></figure><figure><img src="../assets/sanofysi-prebiotic-syrup-vs-bread-fibre-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-vs-bread-fibre-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-vs-bread-fibre.jpg 1600w" sizes="(max-width: 760px) 100vw, 33vw" alt="Kijiko cha sharubati ya prebiotiki kando ya vipande saba vya mkate wa ngano nzima" width="1600" height="1067" loading="lazy" decoding="async"><figcaption><b>Vipande 7</b><span>vya mkate wa ngano nzima</span></figcaption></figure></div>
+      <p class="note">Viwango vya kawaida: takriban g 4 za nyuzinyuzi kwenye bakuli la g 40 za oti, g 3 kwenye ndizi moja na g 2 kwenye kipande cha mkate wa ngano nzima. Kijiko kimoja cha mL 15 cha Prebiotic Syrup kina g 14.3.</p>
+    </div>
+  </section>
+
+  <section class="how" id="how" style="padding-top:0">
     <div class="wrap">
       <div class="grid">
         <div class="intro">
           <span class="eyebrow">Jinsi ya kutumia</span>
-          <h2>Kijiko kimoja. Mara moja kwa siku.</h2>
-          <p>Iongeze kwenye unachokula na kunywa tayari. Hakuna unga wa kuchanganya, hakuna utaratibu mpya.</p>
+          <h2>Kijiko kimoja. Popote upendapo.</h2>
+          <p>Ongeza kwenye unachokula na kunywa tayari. Mara moja kwa siku inatosha.</p>
           <p class="small">Hujazoea nyuzinyuzi? Anza na kijiko cha chai wiki ya kwanza kisha uongeze.</p>
           <a class="text-link" href="sanofysi-prebiotic-syrup.html#ritual">Ona mwongozo kamili</a>
         </div>
-        <ol class="steps">
-          <li><div class="head"><span class="n">01</span><span class="label">Pima</span></div><img src="../assets/sanofysi-prebiotic-syrup-step-measure.jpg" alt="Mikono ikimimina sharubati ya prebiotiki ya rangi ya dhahabu kutoka kwenye chupa ya Sanofysi hadi kwenye kijiko" loading="lazy" decoding="async" width="1000" height="1000"><p>Kijiko kimoja cha mL 15.</p></li>
-          <li><div class="head"><span class="n">02</span><span class="label">Koroga</span></div><img src="../assets/sanofysi-prebiotic-syrup-step-stir.jpg" alt="Kijiko kikikoroga bakuli la uji lenye embe na ndizi juu" loading="lazy" decoding="async" width="1000" height="1000"><p>Kwenye chai, kahawa, mtindi au uji.</p></li>
-          <li><div class="head"><span class="n">03</span><span class="label">Furahia</span></div><img src="../assets/sanofysi-prebiotic-syrup-step-enjoy.jpg" alt="Msichana mwenye nywele za kusuka akitabasamu huku akifurahia kijiko cha uji" loading="lazy" decoding="async" width="1000" height="1000"><p>Mara moja kwa siku.</p></li>
-        </ol>
+        <ul class="ways"><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-drizzle-into-tea.jpg" alt="Sharubati ya prebiotiki ya rangi ya dhahabu ikidondoka kutoka kwenye kijiko hadi kwenye kikombe cha chai" width="1000" height="1000" loading="lazy" decoding="async"><b>Chai</b><span>Badala ya sukari au asali.</span></a></li><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-in-coffee.jpg" alt="Sharubati ya prebiotiki ikidondoka kwenye kikombe cha kahawa kando ya chupa ya Sanofysi" width="1000" height="1000" loading="lazy" decoding="async"><b>Kahawa</b><span>Hulainisha ladha bila sukari nyingi.</span></a></li><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-in-smoothie.jpg" alt="Sharubati ya prebiotiki ikidondoka kwenye smoothie ya kijani kando ya chupa ya Sanofysi" width="1000" height="1000" loading="lazy" decoding="async"><b>Smoothie</b><span>Saga au koroga kwenye smoothie au juisi.</span></a></li><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-on-yoghurt-fruit.jpg" alt="Sharubati ya prebiotiki ikimwagiwa juu ya mtindi wenye embe na papai" width="1000" height="1000" loading="lazy" decoding="async"><b>Mtindi</b><span>Mtindi hauna nyuzinyuzi. Tone la sharubati hubadilisha hilo.</span></a></li><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-in-juice.jpg" alt="Sharubati ya prebiotiki ikidondoka kwenye glasi ya juisi ya machungwa kando ya chupa ya Sanofysi" width="1000" height="1000" loading="lazy" decoding="async"><b>Juisi</b><span>Juisi hupoteza nyuzinyuzi. Zirudishe kwa kijiko kimoja.</span></a></li><li><a href="sanofysi-prebiotic-syrup.html"><img src="../assets/sanofysi-prebiotic-syrup-in-hibiscus-drink.jpg" alt="Sharubati ya prebiotiki ikidondoka kwenye kinywaji baridi cha rosella kando ya chupa ya Sanofysi" width="1000" height="1000" loading="lazy" decoding="async"><b>Vinywaji baridi</b><span>Chai ya barafu, juisi ya rosella au maji.</span></a></li></ul>
       </div>
     </div>
   </section>
 
-  <section class="facts-sec" id="inside">
+  <section class="facts-sec ing" id="inside">
     <div class="wrap">
       <div class="grid">
-        <div class="intro">
-          <h2>Taarifa za kirutubisho</h2>
-          <p>Kipimo kimoja: kijiko kikubwa 1 (mL 15)<br>Takriban vipimo 19 kwa chupa ya mL 290</p>
+        <div class="pic"><img src="../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup-800.jpg" srcset="../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup-800.jpg 800w, ../assets/sanofysi-prebiotic-syrup-spoon-of-fibre-syrup.jpg 1600w" sizes="(max-width: 960px) 100vw, 50vw" alt="Kijiko kikubwa kilichojaa sharubati ya nyuzinyuzi za prebiotiki, chupa ya Sanofysi ikiwa nyuma" width="1600" height="1067" loading="lazy" decoding="async"></div>
+        <div class="text">
+          <span class="eyebrow">Kilichomo</span>
+          <h2>Nyuzinyuzi ndizo kiungo kikuu.</h2>
+          <p>Kila kijiko cha mL 15 kina uzito wa takriban g 19.7, na g 14.3 kati ya hizo ni nyuzinyuzi za prebiotiki za FOS. Kilichobaki ni g 1.6 za sukari, na maji.</p>
+          <div class="spoonbar"><p class="cap">Kilichomo kwenye kijiko kimoja cha mL 15</p><div class="track" aria-hidden="true"><i class="f"></i><i class="s"></i><i class="o"></i></div><dl><div><dt style="--c:var(--green)">Nyuzinyuzi</dt><dd>g 14.3</dd></div><div><dt style="--c:var(--gold)">Sukari</dt><dd>g 1.6</dd></div><div><dt style="--c:var(--rule)">Maji na vingine</dt><dd>g 3.8</dd></div></dl></div>
           <a class="text-link" href="sanofysi-prebiotic-syrup.html#inside">Kilichomo</a>
         </div>
-        <table class="facts">
+      </div>
+      <table class="facts">
           <thead><tr><th scope="col"><span style="position:absolute;left:-9999px">Kirutubisho</span></th><th scope="col">Kiasi kwa kipimo</th><th scope="col">% ya kiwango cha kila siku</th></tr></thead>
           <tbody>
             <tr><th scope="row">Kalori</th><td>35</td><td>—</td></tr>
@@ -309,9 +378,13 @@ footer .bottom { margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba
             <tr><th scope="row">Jumla ya sukari</th><td>1.6 g</td><td>—</td></tr>
           </tbody>
         </table>
-      </div>
     </div>
   </section>
+
+  <div class="band">
+    <img src="../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg" srcset="../assets/sanofysi-prebiotic-syrup-friends-breakfast-900.jpg 900w, ../assets/sanofysi-prebiotic-syrup-friends-breakfast.jpg 1600w" sizes="100vw" alt="Marafiki wanne wakicheka wakinywa chai, kahawa na juisi ya machungwa, chupa ya Sanofysi Prebiotic Syrup ikiwa mezani" width="1600" height="900" loading="lazy" decoding="async">
+    <div class="wrap"><h2>Tabia rahisi, kila asubuhi.</h2></div>
+  </div>
 
   <section class="learn" id="learn">
     <div class="wrap">
@@ -327,18 +400,18 @@ footer .bottom { margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba
         </article>
         <article>
           <h3>Je, naweza kuitumia badala ya sukari au asali?</h3>
-          <p>Ndiyo. Ina utamu mdogo na inakorogeka kwenye chai, kahawa, uji au mtindi. Kijiko kimoja kina g 1.6 za sukari na kalori 35. Kijiko kikubwa cha asali kina takriban g 17 za sukari.</p>
+          <p>Ndiyo. Ina utamu mdogo na inakorogeka kwenye chai, kahawa, juisi au mtindi. Kijiko kimoja kina g 1.6 za sukari na kalori 35. Kijiko kikubwa cha asali kina takriban g 17 za sukari.</p>
         </article>
       </div>
       <p class="more"><a class="text-link" href="sanofysi-prebiotic-syrup.html#questions">Maswali zaidi yamejibiwa</a></p>
       <div class="guides">
         <h3>Kutoka kwenye jarida</h3>
         <ul>
-          <li><a href="what-is-a-prebiotic.html"><img src="../assets/prebiotic-foods-onions-garlic-bananas-oats-beans-800.jpg" alt="Vyakula vyenye prebiotiki mezani" width="800" height="450" loading="lazy" decoding="async"><b>Prebiotiki ni nini?</b><span>dak 4 za kusoma</span></a></li>
-          <li><a href="how-much-fibre-per-day.html"><img src="../assets/daily-fibre-foods-beans-okra-sweet-potato-fruit-800.jpg" alt="Meza yenye vyakula vyenye nyuzinyuzi nyingi" width="800" height="450" loading="lazy" decoding="async"><b>Unahitaji nyuzinyuzi kiasi gani kwa siku?</b><span>dak 4 za kusoma</span></a></li>
-          <li><a href="high-fibre-breakfast-ideas.html"><img src="../assets/high-fibre-breakfast-porridge-fruit-avocado-toast-800.jpg" alt="Vifungua kinywa vinne vyenye nyuzinyuzi nyingi mezani" width="800" height="450" loading="lazy" decoding="async"><b>Vifungua kinywa 7 vyenye nyuzinyuzi nyingi</b><span>dak 4 za kusoma</span></a></li>
-          <li><a href="healthy-sugar-alternatives-for-tea-and-coffee.html"><img src="../assets/sugar-honey-prebiotic-syrup-sweeteners-for-tea-800.jpg" alt="Chai pamoja na sukari, asali na sharubati ya prebiotiki" width="800" height="450" loading="lazy" decoding="async"><b>Mbadala wa sukari wenye afya kwa chai na kahawa</b><span>dak 4 za kusoma</span></a></li>
-          <li><a href="fibermaxxing-explained.html"><img src="../assets/fibermaxxing-high-fibre-bowl-phone-photo-800.jpg" alt="Msichana akipiga picha bakuli lenye nyuzinyuzi nyingi" width="800" height="450" loading="lazy" decoding="async"><b>Fibermaxxing ni nini?</b><span>dak 3 za kusoma</span></a></li>
+          <li><a href="what-is-a-prebiotic.html"><img src="../assets/prebiotic-syrup-spoon-vs-onions-garlic-bananas-800.jpg" alt="Kijiko kimoja cha Sanofysi Prebiotic Syrup kando ya rundo la vitunguu, vitunguu saumu, ndizi na liki" width="800" height="450" loading="lazy" decoding="async"><b>Prebiotiki ni nini?</b><span>dak 4 za kusoma</span></a></li>
+          <li><a href="how-much-fibre-per-day.html"><img src="../assets/daily-fibre-one-spoon-vs-a-day-of-food-800.jpg" alt="Kijiko kimoja cha Sanofysi Prebiotic Syrup mbele ya meza iliyojaa vyakula vyenye nyuzinyuzi nyingi" width="800" height="450" loading="lazy" decoding="async"><b>Unahitaji nyuzinyuzi kiasi gani kwa siku?</b><span>dak 4 za kusoma</span></a></li>
+          <li><a href="high-fibre-breakfast-ideas.html"><img src="../assets/high-fibre-breakfast-tea-toast-prebiotic-syrup-800.jpg" alt="Sharubati ya prebiotiki ikidondoka kwenye kikombe cha chai kando ya mkate, yai la kukaanga na juisi ya machungwa" width="800" height="450" loading="lazy" decoding="async"><b>Kifungua kinywa chenye nyuzinyuzi nyingi, bila kubadili unachokula</b><span>dak 4 za kusoma</span></a></li>
+          <li><a href="healthy-sugar-alternatives-for-tea-and-coffee.html"><img src="../assets/sugar-honey-prebiotic-syrup-sweeteners-for-tea-800.jpg" alt="Msichana akikoroga kikombe cha chai kando ya vipande vya sukari, chupa ya asali na chupa ya Sanofysi Prebiotic Syrup" width="800" height="450" loading="lazy" decoding="async"><b>Mbadala wa sukari wenye afya kwa chai na kahawa</b><span>dak 4 za kusoma</span></a></li>
+          <li><a href="fibermaxxing-explained.html"><img src="../assets/fibermaxxing-one-spoon-prebiotic-syrup-800.jpg" alt="Msichana akirekodi kijiko cha Sanofysi Prebiotic Syrup juu ya kikombe cha chai" width="800" height="450" loading="lazy" decoding="async"><b>Fibermaxxing, bila mlima wa chakula</b><span>dak 3 za kusoma</span></a></li>
         </ul>
       </div>
     </div>
